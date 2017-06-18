@@ -6,7 +6,10 @@ Gem::Specification.new do |s|
   s.description = "A simple Bootstrap date picker based on uxsolutions/bootstrap-datepicker"
   s.authors     = ["Dylan Vander Berg"]
   s.email       = 'dylanvanderberg@gmail.com'
-  s.files       = ["lib/rails-bootstrap-datapicker.rb"]
+  s.files       = ["lib/rails-bootstrap-datapicker.rb",
+     "vendor/assets/javascripts/bootstrap-datepicker.js",
+     "vendor/assets/stylesheets/datepicker.css",
+     "vendor/assets/stylesheets/datepicker3.css"]
   s.homepage    =
     'http://rubygems.org/gems/rails-bootstrap-datapicker'
   s.license       = 'Apache 2'
