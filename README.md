@@ -23,14 +23,14 @@ Add this line to app/assets/stylesheets/application.css
 
 ``` css
  *= require datepicker
- # Or if using bootstrap v3:
+ /* Or if using bootstrap v3: */
  *= require datepicker3
 ```
 OR if you have application.scss, you can require like above or import using
 
 ``` scss
   @import "datepicker"
-  # Or if using bootstrap v3
+  /* Or if using bootstrap v3 */
   @import "datepicker3"
 ```
 
