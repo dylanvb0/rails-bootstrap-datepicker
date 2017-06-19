@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/rails-bootstrap-datepicker.svg)](https://badge.fury.io/rb/rails-bootstrap-datepicker)
+
 # rails-bootstrap-datepicker
 A date picker based off Twitter Bootstrap to work with the rails asset pipeline.
 
